@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "984164565914",
+    "firebase_url": "https://panduarywijaya1202150009modul6.firebaseio.com",
+    "project_id": "panduarywijaya1202150009modul6",
+    "storage_bucket": "panduarywijaya1202150009modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984164565914:android:73eb817bf0254452",
+        "android_client_info": {
+          "package_name": "com.example.android.panduarywijaya_1202150009_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984164565914-m4hogteptrls3m7nejj0vsp2btvhln74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.panduarywijaya_1202150009_modul6",
+            "certificate_hash": "bb0c46af33cfb9b03deccc9463bdc2dd069cb56a"
+          }
+        },
+        {
+          "client_id": "984164565914-0m7ivjk87gdjru11l4rk04v20kvt484m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDttpn_x9kPmqaAy1INQ5Xug2i_Zb-S57M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984164565914-0m7ivjk87gdjru11l4rk04v20kvt484m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
